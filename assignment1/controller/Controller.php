@@ -1,5 +1,5 @@
 <?php
-include_once("model/DBModelTmpl.php");
+include_once("model/DBModel.php");
 include_once("model/Model.php");
 include_once("model/Book.php");
 include_once("view/BookListView.php");
